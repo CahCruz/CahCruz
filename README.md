@@ -22,7 +22,7 @@ Sou profissional de **Tecnologia da Informação**, com experiência em ambiente
 - 🗄️ **Dados e ERP:** Oracle, MySQL, SQL, PL/SQL e ERP Sankhya.
 - ⚙️ **Automação:** Python, scripts, integrações e otimização de processos.
 - 💻 **Desenvolvimento:** aplicações e ferramentas voltadas a necessidades reais.
-- 🤖 **Inteligência Artificial:** exploração de LLMs, Ollama e IA executada localmente.
+- 🤖 **Inteligência Artificial
 - 🧠 **Mentalidade:** aprender continuamente, conectar conhecimentos e transformar ideias em resultados.
 
 <div align="center">
