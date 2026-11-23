@@ -59,8 +59,6 @@ Sou profissional de **Tecnologia da Informação**, com experiência em ambiente
 
 ### 🤖 Inteligência artificial
 <div align="center">
-<img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=00E5FF" alt="Ollama" />
-<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=8A2BE2" alt="LLMs" />
 <img src="https://img.shields.io/badge/IA_Local-0D1117?style=for-the-badge&logoColor=00E5FF" alt="IA local" />
 </div>
 
@@ -74,7 +72,7 @@ Sou profissional de **Tecnologia da Informação**, com experiência em ambiente
 | 🗄️ **Banco de dados** | Oracle, MySQL, SQL e PL/SQL |
 | 🏢 **ERP** | Sankhya, regras de negócio e integrações |
 | ⚙️ **Automação** | Python, scripts e otimização de processos |
-| 🤖 **Inteligência Artificial** | Ollama, LLMs e aplicações de IA local |
+| 🤖 **Inteligência Artificial** | Ollama e aplicações de IA local |
 | 💻 **Desenvolvimento** | Aplicações, ferramentas e integração de sistemas |
 
 ---
