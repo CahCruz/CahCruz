@@ -5,7 +5,7 @@
 
 # Olá, eu sou a Carla Cruz 👩‍💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=60&lines=IT+Infrastructure+%7C+Automation;Oracle+%7C+MySQL+%7C+ERP+Sankhya;Python+%7C+SQL+%7C+PL%2FSQL;Local+AI+%7C+Ollama+%7C+LLMs;Transformando+problemas+em+solu%C3%A7%C3%B5es" alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=60&lines=IT+Infrastructure+%7C+Automation;Oracle+%7C+MySQL+%7C+ERP+Sankhya;Python+%7C+SQL+%7C+PL%2FSQL;AI+%7C;Transformando+problemas+em+solu%C3%A7%C3%B5es" alt="Apresentação animada" />
 
 <a href="https://github.com/CahCruz"><img src="https://img.shields.io/badge/GitHub-CahCruz-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=CahCruz&label=VISITAS&color=8A2BE2&style=for-the-badge" alt="Visualizações do perfil" />
