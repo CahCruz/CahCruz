@@ -37,7 +37,7 @@ Sou profissional de **Tecnologia da Informação**, com experiência em ambiente
 
 ### 💻 Desenvolvimento e automação
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nodejs,git,github,vscode&theme=dark&perline=10" alt="Tecnologias de desenvolvimento" />
+<img src="https://skillicons.dev/icons?i=python,html,js,github,vscode&theme=dark&perline=10" alt="Tecnologias de desenvolvimento" />
 </div>
 
 ### 🖥️ Infraestrutura e sistemas
