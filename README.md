@@ -42,7 +42,7 @@ Sou profissional de **Tecnologia da Informação**, com experiência em ambiente
 
 ### 🖥️ Infraestrutura e sistemas
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,windows,docker&theme=dark" alt="Tecnologias de infraestrutura" />
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Tecnologias de infraestrutura" />
 <br />
 <img src="https://img.shields.io/badge/VMware_ESXi-0D1117?style=for-the-badge&logo=vmware&logoColor=00E5FF" alt="VMware ESXi" />
 <img src="https://img.shields.io/badge/Redes_e_Servidores-0D1117?style=for-the-badge&logoColor=8A2BE2" alt="Redes e servidores" />
